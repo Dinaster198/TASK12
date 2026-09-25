@@ -15,3 +15,5 @@ print(f"{booleana}  {type(booleana)}")
 print(f"{resultado}  {type(resultado)}")
 
 print(0.1 + 0.2 == 0.3) 
+
+"3" + 3
